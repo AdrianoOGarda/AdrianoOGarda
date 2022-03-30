@@ -1,13 +1,8 @@
 # Fullstack Developer
+## Lead Web Developer at YGU Comunicaxion
+## Frontend Developer at OpenTech Alliance
 ## Ironhack Web Development Bootcamp Graduate
 
-Full Stack Web Developer with a background in filmmaking. Passionate about integrating technological skills into creative, distinct tech projects.
-
-Ironhack Web Development bootcamp graduate. Looking forward to contributing to the journey of digital transformation, solving challenges through collaboration, inquiry, and my earnest desire to keep learning new skills and technologies.
-
-I believe creativity is the key to allure audiences. I plan to integrate aesthetic designs into smooth, accessible web applications that make use of the latest technologies to ensure the best user experience.
-
-Determination, endurance, and good collaboration are important assets that have helped me in the past to see the most demanding projects through the end. I plan to bring these assets into my job as a web developer.
 
 <!--
 **AdrianoOGarda/AdrianoOGarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

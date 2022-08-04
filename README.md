@@ -1,7 +1,6 @@
 # Fullstack Developer
 ## Lead Web Developer at YGU Comunicaxion
 ## Frontend Developer at OpenTech Alliance
-## Ironhack Web Development Bootcamp Graduate
 
 
 <!--
